@@ -110,7 +110,7 @@ const deleteNoteByIdHandler = (request, h) => {
   response.code(404);
   return response;
 };
-console.log('test test');
+
 module.exports = {
   // eslint-disable-next-line max-len
   addNoteHandler, getAllNotesHandler, getNoteByIdHandler, editNoteByIdHandler, deleteNoteByIdHandler,
