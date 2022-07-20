@@ -110,6 +110,7 @@ const deleteNoteByIdHandler = (request, h) => {
   response.code(404);
   return response;
 };
+console.log ("test test")
 module.exports = {
   addNoteHandler, getAllNotesHandler, getNoteByIdHandler, editNoteByIdHandler, deleteNoteByIdHandler,
 };
