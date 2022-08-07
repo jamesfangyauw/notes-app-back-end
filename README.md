@@ -1,7 +1,7 @@
 # notes-app-back-end
-This project is a class submission assignment for Learning to Create Back-End Applications for Beginners in Dicoding.
+This project is a class assignment for Learning to Create Back-End Applications for Beginners in Dicoding.
 
-This project has met all of the submission requirements that have been determined, both mandatory (Mandatory) and non-mandatory requirements but can add value if done (Optional).
+This project has met all of the submission requirements that have been determined.
 
 ## Tutorial to run :
 
